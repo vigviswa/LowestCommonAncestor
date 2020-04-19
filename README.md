@@ -24,3 +24,9 @@ Note:
 
 1) All of the nodes' values will be unique.
 2) p and q are different and both values will exist in the BST.
+
+## Contact
+If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
+just want to shoot a question, please feel free to connect with me on 
+<a href="https://www.linkedin.com/in/vigviswa/" target="_blank">LinkedIn</a>
+
